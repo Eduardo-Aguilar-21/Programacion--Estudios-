@@ -1,0 +1,75 @@
+body{
+    margin: 0%
+}
+
+header{
+    background-color: darksalmon;
+    width: 100%;
+    z-index: 100;
+    height: 80px;
+    margin: 0%;
+}
+
+nav{
+    background-color: aquamarine;
+    height: 150px;
+    float: left;
+    width: 20%;
+    margin: 15px 1% 15px 0px;
+}
+
+main{
+    float: left;
+    /*background-color: chartreuse;*/
+    width: 78%;
+    height: 470px;
+    margin: 15px 0px 15px 1%;
+}
+section{
+    background-color: brown;
+    height: 48.4%;
+    float: left;
+    width: 100%;
+    margin: 0% 0% 15px 0%;
+}
+
+article{
+    background-color: blue;
+    height: 80%;
+    width: 70%;
+    margin: 4% 1% 5% 2%;
+    float: left;
+}
+
+.contenedor-aside{
+    /*background-color: darkslategrey;*/
+    float: left;
+    width: 24%;
+    height: 80%;
+    margin: 4% 2% 5% 1%;
+}
+
+.aside-dobles{
+    background-color: yellow;
+    width: 100%;
+    height: 47.5%;
+    float: left;
+    margin: 0% 0% 5% 0%;
+}
+
+#aside-solo{
+    background-color: blanchedalmond;
+    width: 24%;
+    height: 47.5%;
+    float: left;
+    margin: 10% 0% 5% 74%; 
+}
+
+footer{
+    background-color: bisque;
+    width: 100%;
+    height: 40px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}

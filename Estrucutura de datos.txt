@@ -1,0 +1,10 @@
+Tabla hash
+Lista
+Pila
+Cola
+Lista enlazada
+Arbol
+Arbol binario
+Arbol Binario de busqueda
+Grafos
+Heap

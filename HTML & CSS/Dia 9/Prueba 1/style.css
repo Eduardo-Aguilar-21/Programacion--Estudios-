@@ -1,0 +1,104 @@
+body{
+    margin: 0%;
+}
+#container{
+    width: 750px;
+    height: 750px;
+    background-color: aqua;
+    float: left;
+    margin: 0% 12%;
+}
+
+header{
+    background-color: burlywood;
+    width: 750px;
+    height: 250px;
+}
+
+#imagen-banner{
+    background-color: aliceblue;
+    width: 500px;
+    height: 250px;
+    float: left;
+}
+
+#imagen-logo{
+    background-color: cornflowerblue;
+    width: 250px;
+    height: 125px;
+    float: left;
+
+}
+
+.formulario{
+    text-align: left;
+}
+
+nav{
+    background-color: black;
+    float: flex;
+    text-align: center;
+    width: 750px;
+    height: 50px;
+}
+
+nav ul{
+    list-style: none;
+    overflow: hidden;
+    display: inline-block;
+}
+
+nav ul li{
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+
+nav ul li a{
+    display: block;
+    padding: 1px 10px;
+    color: antiquewhite;
+    text-decoration: none;
+    margin: -2px;
+}
+
+nav ul li a:hover{
+    background-color: #eca023;
+    color: black;
+    font-size: 25px;
+}
+
+main{
+    background-color: aquamarine;
+}
+
+#aside-izq{
+    background-color: blueviolet;
+    width: 150px;
+    height: 400px;
+    float: left;
+
+}
+
+article{
+    background-color: yellow;
+    width: 500px;
+    height: 400px;
+    float: left;
+}
+
+#aside-der{
+    background-color: red;
+    height: 400px;
+    width: 100px;
+    float: left;
+}
+
+footer{
+    background-color: green;
+    height: 50px;
+    width: 750px;
+    float: left;
+}
+
